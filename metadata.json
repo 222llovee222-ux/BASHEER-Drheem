@@ -1,0 +1,7 @@
+{
+  "name": "أرشيف المستندات",
+  "description": "تطبيق متكامل لأرشفة وتنظيم وإدارة المستندات والوثائق مع تصنيفات مخصصة، تنبيهات الصلاحية، وخزائن الحفظ الرقمي والورقي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
